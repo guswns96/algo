@@ -14,6 +14,10 @@ else:
                 nums[j+1] = a
                 break
     print(*nums)
+# asdasdas
+
+
+
 
 # n = int(input())
 # lst = list(map(int, input().split()))
